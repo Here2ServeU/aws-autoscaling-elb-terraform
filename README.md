@@ -12,8 +12,8 @@ This repository contains Terraform configurations for provisioning Auto Scaling 
 
 1. **Clone the repository**
 
-   -> git clone https://github.com/your-username/aws-autoscaling-sns-terraform.git
-   -> cd aws-autoscaling-sns-terraform
+   -> git clone https://github.com/your-username/aws-autoscaling-elb-terraform.git
+   -> cd aws-autoscaling-elb-terraform
 
 2. **Initialize Terraform**
 
